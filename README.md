@@ -1,6 +1,6 @@
 # JAXB
 
-`JAXB` The Java™ Architecture for XML Binding (JAXB) provides an API and tools that automate the mapping between XML documents and Java objects.
+The Java™ Architecture for XML Binding (JAXB) provides an API and tools that automate the mapping between XML documents and Java objects.
 [JAXB][].
 
 [JAXB]: https://javaee.github.io/jaxb-v2/
